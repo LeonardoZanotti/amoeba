@@ -8,7 +8,7 @@ Site responsivo amoeba feito durante capacitação ECOMP
 * MariaDB 10.4
 * PHP 7.3
 * Git
-* Node (a versão depende do seu sistema operaconal, para Linux Mint 19.3 usei Node 10.x)
+* Node (a versão depende do seu sistema operacional, para Linux Mint 19.3 usei Node 10.x)
 
 ## Instalação
 ### Dentro da pasta ```back-end``` execute:
